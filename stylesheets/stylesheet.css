@@ -111,6 +111,7 @@ a {
 }
 #mapimg{
     display: block;
+    height:100vh;
 }
 #image{    
   height: 100vh;
