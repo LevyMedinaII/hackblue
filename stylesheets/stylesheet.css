@@ -113,8 +113,9 @@ a {
 #image{    
   height: 100vh;
   display: block;
-    margin-left: auto;
-    margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
+  z-index: -1;
 }
 .main-content :first-child {
   margin-top: 0; }
