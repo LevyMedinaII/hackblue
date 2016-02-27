@@ -120,7 +120,7 @@ a {
 }
 #button{
     position: absolute;
-    z-index: 1 ;
+    z-index: +1 ;
 }
 .main-content :first-child {
   margin-top: 0; }
