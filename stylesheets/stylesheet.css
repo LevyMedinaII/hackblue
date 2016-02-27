@@ -116,8 +116,9 @@ a {
   height: 12%;   
 }
 #newlib{
-    padding-left: 70%;
-    padding-top: 80%;
+    position: absolute;
+    left: 70%;
+    right: 80%;
 }
 #image{    
   height: 100vh;
