@@ -109,11 +109,12 @@ a {
   margin-left: auto;
   margin-right: auto;
 }
+/*
 #image{    
   height: 100vh;
   margin-left: auto;
   margin-right: auto;
-}
+}*/
 .main-content :first-child {
   margin-top: 0; }
 .main-content img {
