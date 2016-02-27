@@ -109,18 +109,16 @@ a {
   margin-left: auto;
   margin-right: auto;
 }
-
+#mapimg{
+    display: block;
+}
 #image{    
   height: 100vh;
-  
+  position: absolute;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  
-}
-#button{
-    position: absolute;
-    z-index: +1 ;
+  z-index: -1;
 }
 .main-content :first-child {
   margin-top: 0; }
