@@ -117,7 +117,7 @@ a {
 #newlib{
     position: absolute;
     left: 775px;
-    top: 710px;
+    top: 75%;
 }
 #image{    
   height: 100vh;
