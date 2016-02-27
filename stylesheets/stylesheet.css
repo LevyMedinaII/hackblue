@@ -112,11 +112,15 @@ a {
 
 #image{    
   height: 100vh;
-  position: absolute;
+  
   display: block;
   margin-left: auto;
   margin-right: auto;
-  z-index: -1;
+  
+}
+#button{
+    position: absolute;
+    z-index: 1 ;
 }
 .main-content :first-child {
   margin-top: 0; }
