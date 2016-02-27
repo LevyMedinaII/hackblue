@@ -108,10 +108,12 @@ a {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  display: block;
+  height:100vh;
 }
-#mapimg{
-    display: block;
-    height:100vh;
+.button{
+  width: 40%;
+  height: 40%;   
 }
 #image{    
   height: 100vh;
