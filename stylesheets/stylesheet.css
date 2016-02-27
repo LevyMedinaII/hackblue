@@ -112,6 +112,7 @@ a {
 
 #image{    
   height: 100vh;
+  position: absolute;
   display: block;
   margin-left: auto;
   margin-right: auto;
